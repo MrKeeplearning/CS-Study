@@ -1,4 +1,5 @@
-## JPA 스터디
+## JPA(Java Persistence API)
+📖 참고 도서 : [자바 ORM 표준 JPA 프로그래밍 - 김영한](https://www.yes24.com/Product/Goods/19040233)
 
 ## Contents
 (example)
@@ -9,7 +10,7 @@
 
 ## Interview
 [참고](https://thisdev.tistory.com/entry/JPA-%EA%B4%80%EB%A0%A8-%EC%9D%B8%ED%84%B0%EB%B7%B0-%EC%A7%88%EB%AC%B8-50%EA%B0%80%EC%A7%80)
-| 질문                                                                                       | 담당 멤버 |
+| ❓질문                                                                                       | 👨🏻‍💻담당 멤버 |
 |------------------------------------------------------------------------------------------|----------|
 | [JPA와 Hibernate의 차이점은 무엇인가요?](https://github.com/SonJM/CS-Study/blob/main/JPA/interview/1.%20JPA%EC%99%80%20Hibernate%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%A0%90%EC%9D%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94.md)                                               | 장은지   |
 | [Hibernate에서 Session과 Transaction의 역할은 무엇인가요?](https://github.com/SonJM/CS-Study/blob/main/JPA/interview/2.%20Hibernate%EC%97%90%EC%84%9C%20Session%EA%B3%BC%20Transaction%EC%9D%98%20%EC%97%AD%ED%95%A0%EC%9D%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94.md)                             | 장은지   |
@@ -61,3 +62,9 @@
 | [JPA에서 영속성 컨텍스트를 어떻게 관리하나요?](https://github.com/SonJM/CS-Study/blob/main/JPA/interview/48.%20JPA%EC%97%90%EC%84%9C%20%EC%98%81%EC%86%8D%EC%84%B1%20%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8%EB%A5%BC%20%EC%96%B4%EB%96%BB%EA%B2%8C%20%EA%B4%80%EB%A6%AC%ED%95%98%EB%82%98%EC%9A%94.md)                                        |    |
 | [JPA에서 영속성 컨텍스트가 엔티티를 관리하는 방법은 무엇인가요?](https://github.com/SonJM/CS-Study/blob/main/JPA/interview/49.%20JPA%EC%97%90%EC%84%9C%20%EC%98%81%EC%86%8D%EC%84%B1%20%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8%EA%B0%80%20%EC%97%94%ED%8B%B0%ED%8B%B0%EB%A5%BC%20%EA%B4%80%EB%A6%AC%ED%95%98%EB%8A%94%20%EB%B0%A9%EB%B2%95%EC%9D%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94.md)                       |    |
 | [JPA에서 쓰기 지연 SQL 저장소란 무엇인가요?](https://github.com/SonJM/CS-Study/blob/main/JPA/interview/50.%20JPA%EC%97%90%EC%84%9C%20%EC%93%B0%EA%B8%B0%20%EC%A7%80%EC%97%B0%20SQL%20%EC%A0%80%EC%9E%A5%EC%86%8C%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94.md)                                         |    |
+
+## Contributor
+
+|[![](https://github.com/qoth-0.png?width=200px)](https://github.com/qoth-0)|[![](https://github.com/fa7271.png?width=200px)](https://github.com/fa7271) |[![](https://github.com/J-unStiN.png?width=200px)](https://github.com/J-unStiN) | [![](https://github.com/MrKeeplearning.png?width=200px)](https://github.com/MrKeeplearning)|[![](https://github.com/Jang-Eun-Ji.png?width=200px)](https://github.com/Jang-Eun-Ji)|[![](https://github.com/GreatJang.png?width=200px)](https://github.com/GreatJang) |[![](https://github.com/SonJM.png?width=200px)](https://github.com/SonJM)|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 소영 | 보석 | 성준 | 재석 | 은지 | 준혁 | 정민 |
